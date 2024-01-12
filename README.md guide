@@ -1,4 +1,4 @@
-#READMERANGER
+# READMERANGER
 
 ## Table of Contents
 
@@ -10,11 +10,11 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-##Description
+## Description
 
 Welcome to My Awesome Project! This is a simple example of a README file for a software project. Use this template as a starting point for creating your own project's README.
 
-##Installation
+## Installation
 
 To install this project, follow these steps:
 
@@ -22,7 +22,7 @@ To install this project, follow these steps:
 2. Navigate to the project directory.
 3. Run `npm install` to install the necessary dependencies.
 
-##Usage
+## Usage
 
 To use this project, simply follow these instructions:
 
@@ -30,11 +30,11 @@ To use this project, simply follow these instructions:
 2. Modify the code to suit your needs.
 3. Run `npm start` to start the application.
 
-##License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-##Contributing
+## Contributing
 
 I welcome contributions from the community. To contribute to this project, follow these steps:
 
@@ -45,14 +45,14 @@ I welcome contributions from the community. To contribute to this project, follo
 5. Push your changes to your fork on GitHub.
 6. Create a pull request to merge your changes into the main repository.
 
-##Tests
+## Tests
 
 To run tests for this project, execute the following command:
 
 ```bash
 npm test
 
-##Questions
+## Questions
 If you have any questions or need assistance with this project, please feel free to reach out:
 
 GitHub Profile: Your GitHub Username
