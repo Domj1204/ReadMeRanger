@@ -24,6 +24,6 @@ undefined
 ## Tests
 undefined
 
-## Qcuestions
+## Questions
 - GitHub Profile: [couchbase](https://github.com/couchbase)
 - Email: couchbase
