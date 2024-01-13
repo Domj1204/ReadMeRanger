@@ -52,9 +52,6 @@ To run tests for this project, execute the following command:
 ```bash
 npm test
 
-[![Watch the Video](https://github.com/Domj1204/ReadMeRanger/blob/main/assets/your_thumbnail_image.jpg)](https://github.com/Domj1204/ReadMeRanger/assets/148828606/60d1b243-2315-4426-9fdc-a000da5ecef1)
-)
-
 ## Questions
 
 If you have any questions or need assistance with this project, please feel free to reach out:
