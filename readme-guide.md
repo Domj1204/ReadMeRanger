@@ -52,7 +52,7 @@ To run tests for this project, execute the following command:
 ```bash
 npm test
 
-https://github.com/Domj1204/ReadMeRanger/assets/148828606/2d4413f3-ac99-4f55-b107-d0bb931549f6
+![Watch the Video](https://github.com/Domj1204/ReadMeRanger/assets/148828606/369285b3-230a-4915-b988-deea4b421265)
 
 ## Questions
 
