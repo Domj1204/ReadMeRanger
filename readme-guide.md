@@ -55,5 +55,5 @@ npm test
 ## Questions
 If you have any questions or need assistance with this project, please feel free to reach out:
 
-GitHub Profile: Your GitHub Username
-Email: youremail@example.com
+GitHub Profile: Domj1204
+Email: jenningsdomonic@gmail.com
